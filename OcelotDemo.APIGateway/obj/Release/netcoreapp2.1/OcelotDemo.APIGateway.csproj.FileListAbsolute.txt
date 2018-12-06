@@ -1,0 +1,14 @@
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.APIGateway\bin\Release\netcoreapp2.1\OcelotDemo.APIGateway.deps.json
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.APIGateway\bin\Release\netcoreapp2.1\OcelotDemo.APIGateway.runtimeconfig.json
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.APIGateway\bin\Release\netcoreapp2.1\OcelotDemo.APIGateway.runtimeconfig.dev.json
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.APIGateway\bin\Release\netcoreapp2.1\OcelotDemo.APIGateway.dll
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.APIGateway\bin\Release\netcoreapp2.1\OcelotDemo.APIGateway.pdb
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.APIGateway\obj\Release\netcoreapp2.1\OcelotDemo.APIGateway.csprojAssemblyReference.cache
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.APIGateway\obj\Release\netcoreapp2.1\OcelotDemo.APIGateway.csproj.CoreCompileInputs.cache
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.APIGateway\obj\Release\netcoreapp2.1\OcelotDemo.APIGateway.RazorAssemblyInfo.cache
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.APIGateway\obj\Release\netcoreapp2.1\OcelotDemo.APIGateway.RazorAssemblyInfo.cs
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.APIGateway\obj\Release\netcoreapp2.1\OcelotDemo.APIGateway.AssemblyInfoInputs.cache
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.APIGateway\obj\Release\netcoreapp2.1\OcelotDemo.APIGateway.AssemblyInfo.cs
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.APIGateway\obj\Release\netcoreapp2.1\OcelotDemo.APIGateway.RazorTargetAssemblyInfo.cache
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.APIGateway\obj\Release\netcoreapp2.1\OcelotDemo.APIGateway.dll
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.APIGateway\obj\Release\netcoreapp2.1\OcelotDemo.APIGateway.pdb

@@ -1,0 +1,15 @@
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\bin\Release\netcoreapp2.1\win-x64\OcelotDemo.Department.exe
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\bin\Release\netcoreapp2.1\win-x64\OcelotDemo.Department.deps.json
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\bin\Release\netcoreapp2.1\win-x64\OcelotDemo.Department.runtimeconfig.json
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\bin\Release\netcoreapp2.1\win-x64\OcelotDemo.Department.runtimeconfig.dev.json
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\bin\Release\netcoreapp2.1\win-x64\OcelotDemo.Department.dll
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\bin\Release\netcoreapp2.1\win-x64\OcelotDemo.Department.pdb
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\obj\Release\netcoreapp2.1\win-x64\OcelotDemo.Department.csprojAssemblyReference.cache
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\obj\Release\netcoreapp2.1\win-x64\OcelotDemo.Department.csproj.CoreCompileInputs.cache
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\obj\Release\netcoreapp2.1\win-x64\OcelotDemo.Department.RazorAssemblyInfo.cache
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\obj\Release\netcoreapp2.1\win-x64\OcelotDemo.Department.RazorAssemblyInfo.cs
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\obj\Release\netcoreapp2.1\win-x64\OcelotDemo.Department.AssemblyInfoInputs.cache
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\obj\Release\netcoreapp2.1\win-x64\OcelotDemo.Department.AssemblyInfo.cs
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\obj\Release\netcoreapp2.1\win-x64\OcelotDemo.Department.RazorTargetAssemblyInfo.cache
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\obj\Release\netcoreapp2.1\win-x64\OcelotDemo.Department.dll
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\obj\Release\netcoreapp2.1\win-x64\OcelotDemo.Department.pdb

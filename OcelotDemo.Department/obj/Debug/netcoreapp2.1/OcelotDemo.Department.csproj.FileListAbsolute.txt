@@ -1,0 +1,13 @@
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\bin\Debug\netcoreapp2.1\OcelotDemo.Department.deps.json
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\bin\Debug\netcoreapp2.1\OcelotDemo.Department.runtimeconfig.json
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\bin\Debug\netcoreapp2.1\OcelotDemo.Department.runtimeconfig.dev.json
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\bin\Debug\netcoreapp2.1\OcelotDemo.Department.dll
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\obj\Debug\netcoreapp2.1\OcelotDemo.Department.csproj.CoreCompileInputs.cache
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\obj\Debug\netcoreapp2.1\OcelotDemo.Department.RazorAssemblyInfo.cache
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\obj\Debug\netcoreapp2.1\OcelotDemo.Department.RazorAssemblyInfo.cs
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\obj\Debug\netcoreapp2.1\OcelotDemo.Department.AssemblyInfoInputs.cache
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\obj\Debug\netcoreapp2.1\OcelotDemo.Department.AssemblyInfo.cs
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\obj\Debug\netcoreapp2.1\OcelotDemo.Department.RazorTargetAssemblyInfo.cache
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\bin\Debug\netcoreapp2.1\OcelotDemo.Department.pdb
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\obj\Debug\netcoreapp2.1\OcelotDemo.Department.dll
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.Department\obj\Debug\netcoreapp2.1\OcelotDemo.Department.pdb

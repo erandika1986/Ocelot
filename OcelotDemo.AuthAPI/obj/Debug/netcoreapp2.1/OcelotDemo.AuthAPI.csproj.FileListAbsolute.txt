@@ -1,0 +1,14 @@
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.AuthAPI\bin\Debug\netcoreapp2.1\OcelotDemo.AuthAPI.deps.json
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.AuthAPI\bin\Debug\netcoreapp2.1\OcelotDemo.AuthAPI.runtimeconfig.json
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.AuthAPI\bin\Debug\netcoreapp2.1\OcelotDemo.AuthAPI.runtimeconfig.dev.json
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.AuthAPI\bin\Debug\netcoreapp2.1\OcelotDemo.AuthAPI.dll
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.AuthAPI\obj\Debug\netcoreapp2.1\OcelotDemo.AuthAPI.csproj.CoreCompileInputs.cache
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.AuthAPI\obj\Debug\netcoreapp2.1\OcelotDemo.AuthAPI.RazorAssemblyInfo.cache
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.AuthAPI\obj\Debug\netcoreapp2.1\OcelotDemo.AuthAPI.RazorAssemblyInfo.cs
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.AuthAPI\obj\Debug\netcoreapp2.1\OcelotDemo.AuthAPI.AssemblyInfoInputs.cache
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.AuthAPI\obj\Debug\netcoreapp2.1\OcelotDemo.AuthAPI.AssemblyInfo.cs
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.AuthAPI\obj\Debug\netcoreapp2.1\OcelotDemo.AuthAPI.RazorTargetAssemblyInfo.cache
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.AuthAPI\bin\Debug\netcoreapp2.1\OcelotDemo.AuthAPI.pdb
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.AuthAPI\obj\Debug\netcoreapp2.1\OcelotDemo.AuthAPI.dll
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.AuthAPI\obj\Debug\netcoreapp2.1\OcelotDemo.AuthAPI.pdb
+D:\Demo Projects\OcelotDemo\OcelotDemo\OcelotDemo.AuthAPI\obj\Debug\netcoreapp2.1\OcelotDemo.AuthAPI.csprojAssemblyReference.cache

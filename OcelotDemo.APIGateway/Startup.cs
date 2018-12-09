@@ -38,6 +38,15 @@ namespace OcelotDemo.APIGateway
         {
             var authenticationProviderKey = "IdentityApiKey";
 
+            services.AddCors(options =>
+            {
+                options.AddPolicy("CorsPolicy",
+                    builder => builder.AllowAnyOrigin()
+                    .AllowAnyMethod()
+                    .AllowAnyHeader()
+                    .AllowCredentials());
+            });
+
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             .AddJwtBearer(authenticationProviderKey,options =>
             {
@@ -64,6 +73,9 @@ namespace OcelotDemo.APIGateway
         public async void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             app.UseAuthentication();
+
+            app.UseCors("CorsPolicy");
+
             await app.UseOcelot();
         }
     }
